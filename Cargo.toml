@@ -1,9 +1,9 @@
 [package]
 name = "paragraph"
-version = "0.0.1"
+version = "0.0.2"
 license = "Apache-2.0/MIT"
 authors = ["Ivan Ukhov <ivan.ukhov@gmail.com>"]
 description = "The package provides a line-breaking algorithm."
-documentation = "https://bodoni.github.io/paragraph"
+documentation = "https://docs.rs/paragraph"
 homepage = "https://github.com/bodoni/paragraph"
 repository = "https://github.com/bodoni/paragraph"
